@@ -1,0 +1,55 @@
+body{
+
+    background-color: rgb(255, 255, 255);
+
+}
+
+ 
+
+.pozadi{
+
+    background-color: rgb(226, 104, 226);
+    
+    margin: 20px;
+
+    padding: 20px;
+
+    width: 400px;
+
+    border-radius: 15px;
+
+    border-style: outset;
+
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
+
+ 
+
+.jmeno{
+
+    padding: 5px;
+
+    margin: 5px;
+
+    text-align: center;
+
+}
+
+ 
+
+.heslo{
+
+    padding: 5px;
+
+    margin: 5px;
+
+    text-align: center;
+
+}
